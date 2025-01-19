@@ -6,7 +6,7 @@
 ### 📌 Mes objectifs pour l'alternance sont :
 - Cultiver ma culture et ma créativité
 - Améliorer mes compétences techniques et sociales
-- Apprendre davantage et m'améliorer dans la gestion de projets
+- Apprendre davantage et m'améliorer dans la gestion des projets
 - Apprendre à coopérer avec une équipe ou plusieurs
 - Savoir communiquer mes idées et conseils
 - Savoir résoudre des problèmes
