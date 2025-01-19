@@ -1,9 +1,9 @@
 # 💫 Qui je suis ? :
-👋Bonjour !
+##👋Bonjour !
 
-🎓Je suis Safuan MAHROUM, actuellement étudiant en 1ère année de BUT MMI. Je veux devenir Game Designer parce que les jeux vidéo me passionnent et l’audiovisuel a été une façon de m’amuser et de m’exprimer pendant plusieurs années. <br><br>J’aimerais créer des histoires et faire vivre des expériences uniques aux gens. Pour cela, je suis à la recherche d’une alternance de 2 ans dans l'audiovisuel et/ou le design à partir de septembre 2025.
+###🎓Je suis Safuan MAHROUM, actuellement étudiant en 1ère année de BUT MMI. Je veux devenir Game Designer parce que les jeux vidéo me passionnent et l’audiovisuel a été une façon de m’amuser et de m’exprimer pendant plusieurs années. <br><br>J’aimerais créer des histoires et faire vivre des expériences uniques aux gens. Pour cela, je suis à la recherche d’une alternance de 2 ans dans l'audiovisuel et/ou le design à partir de septembre 2025.
 
-📌 Mes objectifs pour l'alternance sont :
+###📌 Mes objectifs pour l'alternance sont :
 - Cultiver ma culture et ma créativité
 - Améliorer mes compétences techniques et sociales
 - Apprendre davantage et m'améliorer dans la gestion de projets
@@ -13,23 +13,23 @@
 - Savoir gérer son temps de manière plus efficace
 - Devenir Game Designer
 
-💼 Ce que je peux apporter : 
+###💼 Ce que je peux apporter : 
  - Création de contenu audiovisuel (vidéos, affiches, designs...)
  - Conception ergonomique (sites web, produits, interfaces...)
  - Création de documents pour gestioner un projet (fiche projet, chaiers des charges, post mortem)
 
-🗂️ Découvrez mon portfolio : https://lnkd.in/erJH5YpC<br>
+###🗂️ Découvrez mon portfolio : https://lnkd.in/erJH5YpC<br>
 Vous pourrez y voir tous mes projets réalisés au fil des années et ça vous donnera un aperçu de ma creativité.
 
-📍 Épinay-Sous-Sénart, Essonne 91.
+###📍 Épinay-Sous-Sénart, Essonne 91.
 
-Contactez-moi par :
+###Contactez-moi par :
 - ✉️ safuanmahroum@gmail.com
 - 📱 +33 7 58 47 81 07
 
-🤝 Faisons connaissance !
+###🤝 Faisons connaissance !
 
-# 🌐 Mes résaux :
+## 🌐 Mes résaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafuanMahroum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThePanterSwit) 
 
 ## 👨‍💻 Hard Skills:
