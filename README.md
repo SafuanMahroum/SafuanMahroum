@@ -4,9 +4,10 @@
 🎓Je suis Safuan MAHROUM, actuellement étudiant en 1ère année de BUT MMI. Je veux devenir Game Designer parce que les jeux vidéo me passionnent et l’audiovisuel a été une façon de m’amuser et de m’exprimer pendant plusieurs années. <br><br>J’aimerais créer des histoires et faire vivre des expériences uniques aux gens. Pour cela, je suis à la recherche d’une alternance de 2 ans dans l'audiovisuel et/ou le design à partir de septembre 2025.
 
 ### 📌 Mes objectifs pour l'alternance sont :
+
 - Cultiver ma culture et ma créativité
 - Améliorer mes compétences techniques et sociales
-- Apprendre davantage et m'améliorer dans la gestion des projets
+- Apprendre davantage et m'améliorer dans la gestion de projets
 - Apprendre à coopérer avec une équipe ou plusieurs
 - Savoir communiquer mes idées et conseils
 - Savoir résoudre des problèmes
