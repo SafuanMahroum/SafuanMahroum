@@ -1,34 +1,41 @@
 # 💫 Qui je suis ? :
-## 👋Bonjour !
 
-🎓Je suis Safuan MAHROUM, actuellement étudiant en 1ère année de BUT MMI. Je veux devenir Game Designer parce que les jeux vidéo me passionnent et l’audiovisuel a été une façon de m’amuser et de m’exprimer pendant plusieurs années. <br><br>J’aimerais créer des histoires et faire vivre des expériences uniques aux gens. Pour cela, je suis à la recherche d’une alternance de 2 ans dans l'audiovisuel et/ou le design à partir de septembre 2025.
+## 👋 Bonjour ! 
+### Je suis à la recherche d'une alternance de 2 ans dans les domaines de l'audiovisuel et/ou du design à partir de septembre 2025.
+
+### 🎓 Je suis étudiant en première année de BUT Métiers du Multimédia et de l'Internet à l'IUT Sénart-Fontainebleau à Lieusaint.
+
+### ❓ Je vise devenir Game Designer car les jeux vidéo me passionnent et l’audiovisuel a été une façon de m’amuser et de m’exprimer pendant plusieurs années.
 
 ### 📌 Mes objectifs pour l'alternance sont :
-
 - Cultiver ma culture et ma créativité
 - Améliorer mes compétences techniques et sociales
 - Apprendre davantage et m'améliorer dans la gestion de projets
 - Apprendre à coopérer avec une équipe ou plusieurs
-- Savoir communiquer mes idées et conseils
+- Savoir communiquer mes idées, mes solutions et mes conseils
 - Savoir résoudre des problèmes
 - Savoir gérer son temps de manière plus efficace
 - Devenir Game Designer
 
-### 💼 Ce que je peux apporter : 
- - Création de contenu audiovisuel (vidéos, affiches, designs...)
- - Conception ergonomique (sites web, produits, interfaces...)
- - Création de documents pour gestioner un projet (fiche projet, chaiers des charges, post mortem)
+### 💼 Ce que je peux apporter :
+- Création de contenu audiovisuel (vidéos, affiches, designs...)
+- Conception ergonomique (sites web, produits, interfaces...)
+- Création de documents pour gestioner un projet (fiche projet, chaiers des charges, post mortem)
 
-### 🗂️ Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio <br>
+### 🗂️ Découvrez mon portfolio : https://lnkd.in/erJH5YpC
 Vous pourrez y voir tous mes projets réalisés au fil des années et ça vous donnera un aperçu de ma creativité.
 
-### 📍 Épinay-Sous-Sénart, Essonne 91.
+### 📩 Contactez-moi par :
+- 📧 Mail : safuanmahroum@gmail.com
+- 📱 Téléphone : +33 7 58 47 81 07
 
-### Contactez-moi par :
-- ✉️ safuanmahroum@gmail.com
-- 📱 +33 7 58 47 81 07
+### 📍 Localisation recherchée : Île-de-France
 
-### 🤝 Faisons connaissance !
+### 🤝 Faisons connaissance ! Je suis prêt pour intégrer une équipe motivée pour réaliser des projets uniques et captivants !
+
+### 👀 Si vous connaissiez quelqu'un ou avez une opportunité, je serais ravi de connaître.
+
+### 😁 Merci beaucoup pour vos partages et réactions !
 
 # 🌐 Mes résaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafuanMahroum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThePanterSwit) 
