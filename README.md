@@ -14,8 +14,6 @@
 - Apprendre à coopérer avec une équipe ou plusieurs
 - Savoir communiquer mes idées, mes solutions et mes conseils
 - Savoir résoudre des problèmes
-- Savoir gérer son temps de manière plus efficace
-- Devenir Game Designer
 
 ### 💼 Ce que je peux apporter :
 - Création de contenu audiovisuel (vidéos, affiches, designs...)
