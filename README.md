@@ -1,7 +1,6 @@
 # 💫 Qui je suis ? :
 
-## 👋 Bonjour ! 
-### Je suis à la recherche d'une alternance de 2 ans dans les domaines de l'audiovisuel et/ou du design à partir de septembre 2025.
+### 👋 Bonjour ! Je suis à la recherche d'une alternance de 2 ans dans les domaines de l'audiovisuel et/ou du design à partir de septembre 2025.
 
 ### 🎓 Je suis étudiant en première année de BUT Métiers du Multimédia et de l'Internet à l'IUT Sénart-Fontainebleau à Lieusaint.
 
