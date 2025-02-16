@@ -17,7 +17,7 @@
 ### 💼 Ce que je peux apporter :
 - Création de contenu audiovisuel (vidéos, affiches, designs...)
 - Conception ergonomique (sites web, produits, interfaces...)
-- Création de documents pour gestioner un projet (fiche projet, chaiers des charges, post mortem)
+- Création de documents pour gestioner un projet (fiche projet, chaiers des charges, post mortem...)
 
 ### 🗂️ Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio
 Vous pourrez y voir tous mes projets réalisés au fil des années et ça vous donnera un aperçu de ma creativité.
