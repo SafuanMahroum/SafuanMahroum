@@ -12,7 +12,6 @@
 - Apprendre davantage et m'améliorer dans la gestion de projets
 - Apprendre à coopérer avec une équipe ou plusieurs
 - Savoir communiquer mes idées, mes solutions et mes conseils
-- Savoir résoudre des problèmes
 
 ### 💼 Ce que je peux apporter :
 - Création de contenu audiovisuel (vidéos, affiches, designs...)
