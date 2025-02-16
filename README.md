@@ -29,8 +29,6 @@ Vous pourrez y voir tous mes projets réalisés au fil des années et ça vous d
 
 ### 🤝 Faisons connaissance ! Je suis prêt pour intégrer une équipe motivée pour réaliser des projets uniques et captivants !
 
-### 👀 Si vous connaissiez quelqu'un ou avez une opportunité, je serais ravi de connaître.
-
 ### 😁 Merci beaucoup pour vos partages et réactions !
 
 # 🌐 Mes résaux :
