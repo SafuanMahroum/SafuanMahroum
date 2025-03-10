@@ -10,9 +10,6 @@
 
 ### 💼 Je suis à la recherche d'une alternance de 2 ans dans les domaines du Graphisme, Web/Brand/Game Designer, Montage Vidéo ou Marketing Digital à partir de septembre 2025 (rythme : 2/3 jours par semaine) pour développer davantage mes compétences techniques et sociales tout en acquérant une expérience professionnelle.
 
-### 🗂️ Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio
-Vous pourrez y voir tous mes projets réalisés au fil des années, et cela vous donnera un aperçu de ma créativité.
-
 ### 📩 Contactez-moi par :
 - 📧 Mail : safuanmahroum@gmail.com
 - 📱 Téléphone : 07 58 47 81 07
