@@ -1,4 +1,4 @@
-# 💫 Bienvenue dans mon profil ! :
+# 💫 Bienvenue dans mon profil !
 
 ### 🎓 Je suis Safuan Mahroum, un étudiant ambitieux qui souhaite devenir Game Designer. Motivé par cet objectif et passionné par les jeux vidéo, je développe diverses compétences comme le montage vidéo, le design, le développement web, la communication... à l'IUT Sénart-Fontainebleau en BUT MMI.
 
