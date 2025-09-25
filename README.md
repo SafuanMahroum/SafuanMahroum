@@ -1,17 +1,16 @@
 # 💫 Bienvenue dans mon profil !
+### 🎓 Étudiant ambitieux qui veut devenir designer de jeux vidéos. Passionné par cette industrie, je développe des compétences en audiovisuel, design graphique et développement web à l'IUT Sénart-Fontainebleau en BUT Métiers du Multimedia et de l'internet.
 
-###🎓 Étudiant ambitieux qui veut devenir designer de jeux vidéos. Passionné par cette industrie, je développe des compétences en audiovisuel, design graphique et développement web à l'IUT Sénart-Fontainebleau en BUT Métiers du Multimedia et de l'internet.
-
-###👨‍💼Ce que j'apporte
+### 👨‍💼Ce que j'apporte
  - Audiovisuel : Tournages, dérushage, montages
  - Infographie : Affiches, mockups, logos, chartes graphiques, maquettes
  - Optimisme, motivation, envie d'apprendre !
 
-###💼 En recherche d'une alternance de 1 à 2 ans comme Vidéaste, Infographiste ou Chargé de communication digital avec un rythme de 2 à 3 jours en entreprise à partir de septembre 2025.
+### 💼 En recherche d'une alternance de 1 à 2 ans comme Vidéaste, Infographiste ou Chargé de communication digital avec un rythme de 2 à 3 jours en entreprise à partir de septembre 2025.
 
-###👀 Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio
+### 👀 Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio
 
-###😊 Contactez moi : safuanmahroum@gmail.com / 07 58 47 81 07
+### 😊 Contactez moi : safuanmahroum@gmail.com / 07 58 47 81 07
 
 # 🌐 Mes réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafuanMahroum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThePanterSwit)
