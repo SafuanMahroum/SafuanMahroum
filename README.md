@@ -3,7 +3,7 @@
 
 ### Passionné par l'art dans les jeux vidéo et la création de contenu numérique, je veux intégrer cette industrie grâce à mes compétences en audiovisuel, infographie et développement web.
 
-### Actuellement en recherche d'une convention de stage comme Vidéaste, Infographiste ou Chargé de communication digitale à partir du 25 mars 2025.
+### Actuellement à la recherche d'une convention de stage comme Vidéaste, Infographiste ou Chargé de communication digitale à partir du 25 mars 2025.
 
 ### Découvrez mon portfolio : safuanmahroum.github.io/Portfolio
 
