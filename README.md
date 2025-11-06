@@ -1,16 +1,15 @@
 # 💫 Bienvenue dans mon profil !
-### 🎓 Étudiant ambitieux qui veut devenir designer de jeux vidéos. Passionné par cette industrie, je développe des compétences en audiovisuel, design graphique et développement web à l'IUT Sénart-Fontainebleau en BUT Métiers du Multimedia et de l'internet.
+### 👋 Je suis Safuan Mahroum, étudiant en deuxième année de BUT Métiers du Multimédia et de l'Internet.
 
-### 👨‍💼Ce que j'apporte
- - Audiovisuel : Tournages, dérushage, montages
- - Infographie : Affiches, mockups, logos, chartes graphiques, maquettes
- - Optimisme, motivation, envie d'apprendre !
+### Passionné par l'art dans les jeux vidéo et la création de contenu numérique, je veux intégrer cette industrie grâce à mes compétences en audiovisuel, infographie et développement web.
 
-### 💼 En recherche d'une alternance de 1 à 2 ans comme Vidéaste, Infographiste ou Chargé de communication digital avec un rythme de 2 à 3 jours en entreprise à partir de septembre 2025.
+### Actuellement en recherche d'une convention de stage comme Vidéaste, Infographiste ou Chargé de communication digitale à partir du 25 mars 2025.
 
-### 👀 Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio
+### Découvrez mon portfolio : safuanmahroum.github.io/Portfolio
 
-### 😊 Contactez moi : safuanmahroum@gmail.com / 07 58 47 81 07
+### Je suis à votre service !
+#### safuanmahroum@gmail.com
+#### 07 58 47 81 07
 
 # 🌐 Mes réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafuanMahroum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThePanterSwit)
