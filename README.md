@@ -5,11 +5,10 @@
 
 ### Actuellement à la recherche d'une convention de stage comme Vidéaste, Infographiste ou Chargé de communication digitale à partir du 25 mars 2025.
 
-### Découvrez mon portfolio : safuanmahroum.github.io/Portfolio
+### Découvrez mon portfolio : https://safuanmahroum.github.io/Portfolio
 
 ### Je suis à votre service !
-#### safuanmahroum@gmail.com
-#### 07 58 47 81 07
+#### safuanmahroum@gmail.com / 07 58 47 81 07
 
 # 🌐 Mes réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafuanMahroum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThePanterSwit)
