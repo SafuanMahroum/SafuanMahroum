@@ -1,5 +1,5 @@
 # 💫 Bienvenue dans mon profil !
-### 👋 Je suis Safuan Mahroum, étudiant en deuxième année de BUT Métiers du Multimédia et de l'Internet.
+### 👋 Je suis Safuan Mahroum, étudiant en BUT Métiers du Multimédia et de l'Internet.
 
 ### Passionné par l'art dans les jeux vidéo et la création de contenu numérique, je veux intégrer cette industrie grâce à mes compétences en audiovisuel, infographie et développement web.
 
