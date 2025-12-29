@@ -3,9 +3,9 @@
 
 ### 🎮 Passionné par l'art dans les jeux vidéo et la création de contenu numérique, je souhaite intégrer cette industrie grâce à mes compétences en audiovisuel, infographie et développement web.
 
-### 🎨 Mon portfolio : safuanmahroum.github.io/Portfolio
+### 🎨 Mon portfolio : https://safuanmahroum.github.io/Portfolio
 
-### 🔗 Tous mes liens professionnels : beacons.ai/safuanmahroum
+### 🔗 Tous mes liens professionnels : https://beacons.ai/safuanmahroum
 
 # 🌐 Mes réseaux :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SafuanMahroum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SafuanFilms)
